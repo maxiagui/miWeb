@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-CHANCHITO es Master
-=======
-CHANGO
->>>>>>> ramab
